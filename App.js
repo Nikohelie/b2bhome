@@ -1,5 +1,5 @@
 import React from 'react';
-import {LoggingScreen} from './src/screens/LoggingScreen';
+import LoggingScreen from './src/screens/LoggingScreen';
 
 const App = () => {
   return <LoggingScreen />;
